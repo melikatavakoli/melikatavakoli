@@ -1,4 +1,4 @@
-# Hey, I'm [Melika] 👋
+# Hey, I'm Melika 👋
 Backend Developer | Python | Django | FastAPI | PostgreSQL / SQL Server / MySQL
 
 ## 🛠 Technologies
