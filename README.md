@@ -14,6 +14,8 @@ Backend Developer | Python | Django | FastAPI | PostgreSQL / SQL Server / MySQL
   <img src="https://jwt.io/img/logo.svg" alt="JWT" width="40" height="40"/>
 </p>
 
+## 📌 Pinned Projects
+- [django-blog](https://github.com/melikatavakoli/django-blog) - Modern SEO-friendly blog built with Django & PostgreSQL
 
 ## 📫 Contact Me
 <p>
