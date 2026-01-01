@@ -18,4 +18,4 @@ Backend Developer | Python | Django | FastAPI | PostgreSQL / SQL Server / MySQL
 - [django-blog](https://github.com/melikatavakoli/django-blog) - Modern SEO-friendly blog built with Django & PostgreSQL
 
 ## 📫 Contact Me
-[GitHub](https://github.com/melikatavakoli) | [LinkedIn](https://www.linkedin.com/in/Melika Tavakoli/)
+[GitHub](https://github.com/melikatavakoli) | [LinkedIn](https://www.linkedin.com/in/MelikaTavakoli/)
