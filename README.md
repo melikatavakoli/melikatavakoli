@@ -16,4 +16,11 @@ Backend Developer | Python | Django | FastAPI | PostgreSQL / SQL Server / MySQL
 
 
 ## 📫 Contact Me
-[GitHub](https://github.com/melikatavakoli) | [LinkedIn](https://www.linkedin.com/in/MelikaTavakoli/)
+<p>
+  <a href="https://github.com/melikatavakoli" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Melika Tavakoli/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
