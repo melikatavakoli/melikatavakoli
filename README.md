@@ -1,4 +1,4 @@
-# Hey, I'm Melika 👋  
+# Hey, I'm Melika   
 Backend Developer | Python • Django • FastAPI • Realtime Systems
 
 I'm a backend developer with nearly **2 years of hands-on experience** building scalable, production-ready systems using Python-based technologies.  
