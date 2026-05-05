@@ -4,11 +4,19 @@
 
 ### Backend Developer • Python • Django • FastAPI • Realtime Systems
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-5.x-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-ff69b4?style=for-the-badge)]()
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+**⚡ Core Stack**
+<br/>
+<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-5.x-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<br/><br/>
+
+**🌐 Realtime & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/WebSockets-Realtime-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-API-red?style=for-the-badge" />
 
 </div>
 
@@ -84,7 +92,7 @@ My main focus is backend development, but I also have experience working with **
 
 ---
 
-## 🧩 Things I’ve Built
+## 🧩 Things I've Built
 
 | Project Type | Examples |
 |--------------|----------|
