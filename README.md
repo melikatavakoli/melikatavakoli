@@ -31,7 +31,9 @@ My main focus is backend development, but I also have experience working with **
 | **Realtime Systems** | WebSockets, live chat, voice forwarding, real-time notifications |
 | **Auth & Security** | OTP, JWT, token-based authentication, role-based access |
 | **Financial Modules** | Billing, invoicing, wallet systems, transaction handling |
+| **Background Tasks** | Celery, Redis, async job processing, task scheduling |
 | **DevOps** | Docker, Linux, Git, GitLab, production deployments |
+| **API Tools** | Postman, Swagger/OpenAPI, API documentation |
 | **AI & LLMs** | Research & experimental projects with LLMs, Jupyter, Pandas, NumPy |
 
 ---
@@ -52,37 +54,45 @@ My main focus is backend development, but I also have experience working with **
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" />
       <img src="https://img.stackshare.io/service/9904/logo.png" width="45" />
       <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
-    </td>
-  </tr>
-  <tr>
+     </td>
+   </tr>
+   <tr>
     <td align="center">
       <strong>🔁 Realtime & Async</strong><br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
       <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45" />
       <img src="https://raw.githubusercontent.com/django/channels/main/docs/logo.png" width="45" />
-    </td>
+      <img src="https://docs.celeryq.dev/en/latest/_static/celery_512.png" width="45" />
+     </td>
     <td align="center">
       <strong>🔐 Authentication</strong><br/><br/>
       <img src="https://jwt.io/img/logo.svg" width="45" />
       <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="45" />
-    </td>
-  </tr>
-  <tr>
+     </td>
+   </tr>
+   <tr>
     <td align="center">
       <strong>🐳 DevOps & Tools</strong><br/><br/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" />
-    </td>
+     </td>
     <td align="center">
+      <strong>📝 API Tools & Docs</strong><br/><br/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+      <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" />
+     </td>
+   </tr>
+   <tr>
+    <td align="center" colspan="2">
       <strong>🤖 AI & Data</strong><br/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 ---
@@ -96,6 +106,8 @@ My main focus is backend development, but I also have experience working with **
 | 📅 **Appointment Systems** | Online booking, scheduling, reminders |
 | 💳 **Financial Modules** | Wallet, billing, invoicing, transaction logs |
 | 🔔 **Realtime Notifications** | In-app alerts, push-ready architecture |
+| ⚡ **Background Jobs** | Async tasks, scheduled jobs with Celery & Redis |
+| 📚 **API Documentation** | Swagger/OpenAPI specs, Postman collections |
 | 🧠 **AI Experiments** | Research projects with LLMs & AI models |
 
 ---
@@ -106,6 +118,8 @@ My main focus is backend development, but I also have experience working with **
 - ⚡ **Realtime performance & scalability**  
 - 🔒 **Security-first mindset** (from auth to data protection)  
 - 🚀 **Building things that actually get used**  
+- 📝 **Well-documented APIs** (Swagger + Postman)  
+- ⏳ **Async processing** with Celery & Redis
 
 ---
 
