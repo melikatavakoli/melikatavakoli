@@ -1,5 +1,20 @@
-# Hey, I'm Melika   
-Backend Developer | Python • Django • FastAPI • Realtime Systems
+<div align="center">
+
+# 💜 Hey, I'm Melika
+
+### Backend Developer • Python • Django • FastAPI • Realtime Systems
+
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-5.x-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-ff69b4?style=for-the-badge)]()
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+
+</div>
+
+---
+
+## 🧠 About Me
 
 I'm a backend developer with nearly **2 years of hands-on experience** building scalable, production-ready systems using Python-based technologies.  
 I enjoy designing clean architectures, solving real-world problems, and working on systems where **performance, security, and reliability actually matter**.
@@ -8,84 +23,108 @@ My main focus is backend development, but I also have experience working with **
 
 ---
 
-## 🧠 About Me
-- 🚀 Backend Developer specialized in **Django & FastAPI**
-- ⚡ Strong experience in **Realtime systems** (WebSockets, chat, live communication)
-- 🔐 Implemented secure **Authentication & Authorization** (OTP, JWT, token-based)
-- 🧩 Built financial modules: **billing, invoicing, wallet systems**
-- 🐳 Comfortable with **Docker, Linux, and production deployments**
-- 🤖 Experience collaborating on **AI & LLM-based projects**
-- 🧼 Big fan of **clean, maintainable, and scalable code**
+## 🚀 What I Do
+
+| Area | Experience |
+|------|------------|
+| **Backend Frameworks** | Django, FastAPI, Django REST Framework |
+| **Realtime Systems** | WebSockets, live chat, voice forwarding, real-time notifications |
+| **Auth & Security** | OTP, JWT, token-based authentication, role-based access |
+| **Financial Modules** | Billing, invoicing, wallet systems, transaction handling |
+| **DevOps** | Docker, Linux, Git, GitLab, production deployments |
+| **AI & LLMs** | Research & experimental projects with LLMs, Jupyter, Pandas, NumPy |
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👩‍💻 Languages & Core
-<p>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+### 👩‍💻 Languages & Databases
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
 </p>
 
-### ⚙️ Backend Frameworks
+### ⚙️ Backend & APIs
 <p>
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" />
-  <img src="https://www.django-rest-framework.org/img/logo.png" width="40" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" />
+  <img src="https://img.stackshare.io/service/9904/logo.png" width="45" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
 </p>
 
 ### 🔁 Realtime & Async
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/3198191?s=200&v=4" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45" />
+  <img src="https://raw.githubusercontent.com/django/channels/main/docs/logo.png" width="45" />
 </p>
 
-### 🔐 Authentication & Security
+### 🔐 Authentication
 <p>
-  <img src="https://jwt.io/img/logo.svg" width="40" />
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="40" />
+  <img src="https://jwt.io/img/logo.svg" width="45" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="45" />
 </p>
 
-### 🐳 DevOps & Environment
+### 🐳 DevOps & Tools
 <p>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" />
 </p>
 
 ### 🤖 AI & Data
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
 </p>
 
 ---
 
 ## 🧩 Things I’ve Built
-- 💬 **WebSocket-based chat systems** (forwarding, replying, live voice)
-- 🎫 **Ticketing & support platforms**
-- 📅 **Online appointment systems**
-- 💳 **Wallet, billing & invoicing modules**
-- 🔔 **Realtime notification systems**
-- 🧠 Experimental projects involving **LLMs & AI models**
+
+| Project Type | Examples |
+|--------------|----------|
+| 💬 **Chat Systems** | WebSocket-based chat, message forwarding, replies, live voice |
+| 🎫 **Ticketing Platforms** | Support tickets, status tracking, real-time updates |
+| 📅 **Appointment Systems** | Online booking, scheduling, reminders |
+| 💳 **Financial Modules** | Wallet, billing, invoicing, transaction logs |
+| 🔔 **Realtime Notifications** | In-app alerts, push-ready architecture |
+| 🧠 **AI Experiments** | Research projects with LLMs & AI models |
 
 ---
 
-## 📈 What I Care About
-- Clean architecture & readable code
-- Realtime performance and scalability
-- Security-first mindset
-- Building things that actually get used
+## 💡 What I Care About
+
+- 🧼 **Clean architecture & readable code**  
+- ⚡ **Realtime performance & scalability**  
+- 🔒 **Security-first mindset** (from auth to data protection)  
+- 🚀 **Building things that actually get used**  
 
 ---
 
 ## 📫 Let's Connect
+
 If you like backend systems, realtime architectures, or just enjoy building solid software —  
 **we'll probably get along pretty well 🙂**
+
+<p align="left">
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i>“Write code that feels good to come back to.”</i>
+</div>
