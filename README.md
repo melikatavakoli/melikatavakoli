@@ -4,19 +4,11 @@
 
 ### Backend Developer • Python • Django • FastAPI • Realtime Systems
 
-**⚡ Core Stack**
-<br/>
-<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-5.x-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<br/><br/>
-
-**🌐 Realtime & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/WebSockets-Realtime-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/DRF-API-red?style=for-the-badge" />
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-5.x-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-ff69b4?style=for-the-badge)]()
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 
 </div>
 
@@ -46,53 +38,56 @@ My main focus is backend development, but I also have experience working with **
 
 ## 🛠 Tech Stack
 
-### 👩‍💻 Languages & Databases
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" />
-  <img src="https://img.stackshare.io/service/9904/logo.png" width="45" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
-</p>
-
-### 🔁 Realtime & Async
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45" />
-  <img src="https://raw.githubusercontent.com/django/channels/main/docs/logo.png" width="45" />
-</p>
-
-### 🔐 Authentication
-<p>
-  <img src="https://jwt.io/img/logo.svg" width="45" />
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="45" />
-</p>
-
-### 🐳 DevOps & Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" />
-</p>
-
-### 🤖 AI & Data
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>👩‍💻 Languages & Databases</strong><br/><br/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+    </td>
+    <td align="center" width="50%">
+      <strong>⚙️ Backend & APIs</strong><br/><br/>
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" />
+      <img src="https://img.stackshare.io/service/9904/logo.png" width="45" />
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🔁 Realtime & Async</strong><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45" />
+      <img src="https://raw.githubusercontent.com/django/channels/main/docs/logo.png" width="45" />
+    </td>
+    <td align="center">
+      <strong>🔐 Authentication</strong><br/><br/>
+      <img src="https://jwt.io/img/logo.svg" width="45" />
+      <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="45" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🐳 DevOps & Tools</strong><br/><br/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" />
+    </td>
+    <td align="center">
+      <strong>🤖 AI & Data</strong><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 Things I've Built
+## 🧩 Things I’ve Built
 
 | Project Type | Examples |
 |--------------|----------|
