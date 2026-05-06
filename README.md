@@ -23,21 +23,6 @@ My main focus is backend development, but I also have experience working with **
 
 ---
 
-## 🚀 What I Do
-
-| Area | Experience |
-|------|------------|
-| **Backend Frameworks** | Django, FastAPI, Django REST Framework |
-| **Realtime Systems** | WebSockets, live chat, voice forwarding, real-time notifications |
-| **Auth & Security** | OTP, JWT, token-based authentication, role-based access |
-| **Financial Modules** | Billing, invoicing, wallet systems, transaction handling |
-| **Background Tasks** | Celery, Redis, async job processing, task scheduling |
-| **DevOps** | Docker, Linux, Git, GitLab, production deployments |
-| **API Tools** | Postman, Swagger/OpenAPI, API documentation |
-| **AI & LLMs** | Research & experimental projects with LLMs, Jupyter, Pandas, NumPy |
-
----
-
 ## 🛠 Tech Stack
 
 <table align="center">
