@@ -113,18 +113,6 @@ My main focus is backend development, but I also have experience working with **
 If you like backend systems, realtime architectures, or just enjoy building solid software —  
 **we'll probably get along pretty well 🙂**
 
-<p align="left">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:melikatavakoliedu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 **📧 Email me directly:** [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
 
 ---
