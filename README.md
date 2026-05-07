@@ -25,60 +25,35 @@ My main focus is backend development, but I also have experience working with **
 
 ## 🛠 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>👩‍💻 Languages & Databases</strong><br/><br/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
-    </td>
-    <td align="center" width="50%">
-      <strong>⚙️ Backend & APIs</strong><br/><br/>
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" />
-      <img src="https://img.stackshare.io/service/9904/logo.png" width="45" />
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
-     </td>
-   </tr>
-   <tr>
-    <td align="center">
-      <strong>🔁 Realtime & Async</strong><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="45" />
-      <img src="https://raw.githubusercontent.com/django/channels/main/docs/logo.png" width="45" />
-      <img src="https://docs.celeryq.dev/en/latest/_static/celery_512.png" width="45" />
-     </td>
-    <td align="center">
-      <strong>🔐 Authentication</strong><br/><br/>
-      <img src="https://jwt.io/img/logo.svg" width="45" />
-      <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="45" />
-     </td>
-   </tr>
-   <tr>
-    <td align="center">
-      <strong>🐳 DevOps & Tools</strong><br/><br/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" />
-     </td>
-    <td align="center">
-      <strong>📝 API Tools & Docs</strong><br/><br/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
-      <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" />
-     </td>
-   </tr>
-   <tr>
-    <td align="center" colspan="2">
-      <strong>🤖 AI & Data</strong><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
-     </td>
-   </tr>
-</table>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" />
+  <img src="https://img.stackshare.io/service/9904/logo.png" width="45" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
+  <img src="https://docs.celeryq.dev/en/latest/_static/celery_512.png" width="45" />
+
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+</p>
+<p align="center">
+  <img src="https://jwt.io/img/logo.svg" width="45" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="45" />
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
+</p>
 
 ---
 
