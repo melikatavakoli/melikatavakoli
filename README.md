@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a backend developer with nearly **2 years of hands-on experience** building scalable, production-ready systems using Python-based technologies.  
+I'm a backend developer with **+2 years of hands-on experience** building scalable, production-ready systems using Python-based technologies.  
 I enjoy designing clean architectures, solving real-world problems, and working on systems where **performance, security, and reliability actually matter**.
 
 My main focus is backend development, but I also have experience working with **AI systems and Large Language Models (LLMs)**, especially in research-oriented and experimental projects.
