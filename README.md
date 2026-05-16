@@ -23,7 +23,6 @@ My main focus is backend development, but I also have experience working with **
 
 ---
 
-## 🛠 Tech Stack
 
 # ⚡ Tech Stack
 
