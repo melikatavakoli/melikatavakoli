@@ -25,38 +25,70 @@ My main focus is backend development, but I also have experience working with **
 
 ## 🛠 Tech Stack
 
+<!-- ================= Backend & Frameworks ================= -->
+<h3 align="center">⚙️ Backend & Frameworks</h3>
+
 <p align="center">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
 </p>
 
+---
+
+<!-- ================= Databases ================= -->
+<h3 align="center">🗄️ Databases</h3>
+
 <p align="center">
-  <!-- API / Auth -->
-  <img src="https://jwt.io/img/logo.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="50" />
+</p>
 
-  <!-- Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
+---
 
-  <!-- Added -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="45" />
+<!-- ================= DevOps & Infrastructure ================= -->
+<h3 align="center">🐳 DevOps & Infrastructure</h3>
 
-  <!-- OTP -->
-  <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" width="45" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" width="50" />
+</p>
+
+---
+
+<!-- ================= API & Authentication ================= -->
+<h3 align="center">🔐 API & Authentication</h3>
+
+<p align="center">
+  <img src="https://jwt.io/img/pic_logo.svg" width="50" />
+  <img src="https://img.icons8.com/ios-filled/100/lock--v1.png" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" />
+</p>
+
+---
+
+<!-- ================= Data Science ================= -->
+<h3 align="center">📊 Data & Analysis</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+</p>
+
+---
+
+<!-- ================= Tools ================= -->
+<h3 align="center">🛠️ Tools</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 </p>
 
 ---
