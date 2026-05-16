@@ -30,29 +30,37 @@ My main focus is backend development, but I also have experience working with **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
-
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45" />
-  <img src="https://img.stackshare.io/service/9904/logo.png" width="45" />
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
   <img src="https://docs.celeryq.dev/en/latest/_static/celery_512.png" width="45" />
-
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 </p>
+
 <p align="center">
   <img src="https://jwt.io/img/logo.svg" width="45" />
   <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="45" />
-
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
   <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" />
+
+  <!-- SQLAlchemy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45" />
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
+
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
+
+  <!-- MinIO -->
+  <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="45" />
+
+  <!-- OTP -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064155.png" width="45" />
 </p>
 
 ---
