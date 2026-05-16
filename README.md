@@ -33,27 +33,29 @@ My main focus is backend development, but I also have experience working with **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 </p>
 
 <p align="center">
-  <!-- Backend / Tools -->
+  <!-- API / Auth -->
   <img src="https://jwt.io/img/logo.svg" width="45" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="45" />
+
+  <!-- Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
 
-  <!-- Added Technologies -->
+  <!-- Added -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
   <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="45" />
 
-  <!-- OTP / Security -->
+  <!-- OTP -->
   <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" width="45" />
 </p>
 
