@@ -25,71 +25,49 @@ My main focus is backend development, but I also have experience working with **
 
 ## 🛠 Tech Stack
 
-<!-- ================= Backend & Frameworks ================= -->
-<h3 align="center">⚙️ Backend & Frameworks</h3>
+# ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
-</p>
+## 🧠 Backend
+- Python
+- FastAPI
+- SQLAlchemy
+- Bash
 
 ---
 
-<!-- ================= Databases ================= -->
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="50" />
-</p>
+## 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+- Redis
 
 ---
 
-<!-- ================= DevOps & Infrastructure ================= -->
-<h3 align="center">🐳 DevOps & Infrastructure</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/minio-1.svg" width="50" />
-</p>
+## 🐳 DevOps & Infrastructure
+- Docker
+- Linux
+- MinIO
 
 ---
 
-<!-- ================= API & Authentication ================= -->
-<h3 align="center">🔐 API & Authentication</h3>
-
-<p align="center">
-  <img src="https://jwt.io/img/pic_logo.svg" width="50" />
-  <img src="https://img.icons8.com/ios-filled/100/lock--v1.png" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" />
-</p>
+## 🔐 Authentication & API
+- JWT Authentication
+- OTP Systems
+- Postman
+- Swagger / OpenAPI
 
 ---
 
-<!-- ================= Data Science ================= -->
-<h3 align="center">📊 Data & Analysis</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
-</p>
+## 📊 Data & Analysis
+- Jupyter Notebook
+- Pandas
+- NumPy
 
 ---
 
-<!-- ================= Tools ================= -->
-<h3 align="center">🛠️ Tools</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-</p>
+## 🛠️ Tools
+- Git
 
 ---
 
