@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💎 Melika Tavakoli
+# 💎 Hey, I'm Melika 
 
 <br/>
 
@@ -54,20 +54,6 @@
 
 </p>
 
-## 🚀 Projects & Experience
-
-I’ve worked on backend systems such as:
-
-- Real-time chat & messaging platforms with WebSocket architecture  
-- Ticketing and workflow systems with state management logic  
-- Scheduling and booking systems with availability/conflict handling  
-- Financial modules (wallets, invoices, transaction pipelines)  
-- Notification systems based on event-driven architecture  
-- Async task processing pipelines (Celery + Redis)  
-- RESTful APIs with clean OpenAPI documentation  
-- Experimental AI/LLM-based backend prototypes  
-
----
 
 ## 📫 Contact
 
