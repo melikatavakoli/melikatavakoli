@@ -30,47 +30,53 @@
 
 ## 🧠 About Me
 
-Backend engineer focused on designing **scalable, maintainable, and production-ready systems**.
+Backend engineer with a focus on building **scalable, real-world systems** using Python.
 
-I work on systems where **performance, architecture, and reliability** are critical — from real-time applications to distributed backend services.
+I work on backend architectures where **performance, reliability, and maintainability** are not optional — they are the baseline.
 
-Currently exploring **event-driven architectures** and **AI-integrated backend systems**.
+My main interest is designing systems that handle **real-time communication, data-heavy workflows, and distributed processing** in a clean and structured way.
+
+I’m also actively exploring **event-driven architectures** and **AI-powered backend systems**.
 
 ---
 
 ## 🧩 Engineering Focus
 
-<table align="center">
-<tr>
-<td align="center">⚡</td>
-<td><b>High-Performance APIs</b><br/>Fast, optimized, production-ready services</td>
-</tr>
-<tr>
-<td align="center">🧱</td>
-<td><b>System Design</b><br/>Scalable architectures & clean separation of concerns</td>
-</tr>
-<tr>
-<td align="center">🔄</td>
-<td><b>Realtime Systems</b><br/>WebSockets, event-driven communication</td>
-</tr>
-<tr>
-<td align="center">🔐</td>
-<td><b>Secure Backend</b><br/>JWT, OAuth2, authentication flows</td>
-</tr>
-</table>
+- ⚡ High-performance backend APIs (FastAPI / Django)
+- 🧱 System design with scalable and modular architecture
+- 🔄 Real-time systems using WebSockets & async patterns
+- 🔐 Secure authentication flows (JWT, OAuth2, OTP systems)
+- ⚙️ Background processing & distributed tasks (Celery, Redis)
+- 📡 Event-driven architecture for scalable services
 
 ---
 
 ## 🚀 Projects & Experience
 
-<div align="center">
+I’ve worked on backend systems such as:
 
-```text
-Realtime Systems        → Chat, messaging, live communication
-Workflow Engines        → Ticketing, task management systems
-Scheduling Platforms    → Booking & appointment systems
-Financial Systems       → Wallets, invoices, transactions
-Notification Systems    → Event-driven alerts & updates
-Async Processing        → Celery + Redis pipelines
-API Engineering         → REST + OpenAPI design
-AI Experiments          → LLM-powered backend prototypes
+- Real-time chat & messaging platforms with WebSocket architecture  
+- Ticketing and workflow systems with state management logic  
+- Scheduling and booking systems with availability/conflict handling  
+- Financial modules (wallets, invoices, transaction pipelines)  
+- Notification systems based on event-driven architecture  
+- Async task processing pipelines (Celery + Redis)  
+- RESTful APIs with clean OpenAPI documentation  
+- Experimental AI/LLM-based backend prototypes  
+
+---
+
+## 🧠 Engineering Principles
+
+- Clean, modular, and testable architecture  
+- Performance-first backend design  
+- Secure-by-default systems  
+- Production-ready, scalable solutions  
+- API clarity and maintainability  
+- Async & event-driven thinking  
+
+---
+
+## 📫 Contact
+
+📧 melikatavakoliedu@gmail.com
