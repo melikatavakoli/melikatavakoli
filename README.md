@@ -63,17 +63,6 @@ I’ve worked on backend systems such as:
 
 ---
 
-## 🧠 Engineering Principles
-
-- Clean, modular, and testable architecture  
-- Performance-first backend design  
-- Secure-by-default systems  
-- Production-ready, scalable solutions  
-- API clarity and maintainability  
-- Async & event-driven thinking  
-
----
-
 ## 📫 Contact
 
-📧 melikatavakoliedu@gmail.com
+📧 [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
