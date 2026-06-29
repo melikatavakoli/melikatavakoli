@@ -1,14 +1,20 @@
 <div align="center">
 
-# 💎✨ Hey, I'm Melika
+# 💎 Hey, I'm Melika
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+Django+%7C+FastAPI;Realtime+Systems+%F0%9F%9A%80;Clean+Architecture+%7C+Scalable+APIs)](https://git.io/typing-svg)
+
+<br/>
 
 ### Backend Engineer • Python • Django • FastAPI • Realtime Systems
 
+<br/>
+
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-Backend%20Framework-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-Backend-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-Async%20APIs-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime%20Systems-FF2D95?style=for-the-badge&logo=socketdotio&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-DevOps%20Ready-1E90FF?style=for-the-badge&logo=docker&logoColor=white)]()
+[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-FF4D8D?style=for-the-badge&logo=socketdotio&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 
 </div>
 
@@ -16,33 +22,35 @@
 
 ## 🧠 About Me
 
-I'm a backend engineer with **2+ years of hands-on experience** building scalable and production-ready systems using Python.
+I'm a backend engineer with **2+ years of experience** building scalable and production-ready systems using Python.
 
-I focus on designing **clean architectures**, building **high-performance APIs**, and solving real-world backend problems where **reliability, scalability, and security matter**.
+I focus on designing **clean architectures**, building **high-performance APIs**, and solving real-world problems where **scalability, security, and performance matter**.
 
-Alongside backend development, I’ve also worked on **AI/LLM-based systems**, mainly in experimental and research-driven projects.
+I also explore **AI / LLM-based systems**, mainly in experimental and research-driven projects.
 
 ---
 
-## ⚡ Tech Stack
+## ⚙️ Core Stack
 
-### 🧠 Backend
-Python • FastAPI • Django • SQLAlchemy • Bash
+Python • Django • FastAPI • SQLAlchemy • Bash
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
+
 PostgreSQL • MySQL • SQLite • MongoDB • Redis
 
-### 🐳 DevOps & Infrastructure
+---
+
+## 🐳 DevOps & Infrastructure
+
 Docker • Linux • MinIO
 
-### 🔐 Auth & APIs
+---
+
+## 🔐 Auth & APIs
+
 JWT • OAuth2 • OTP Systems • Swagger / OpenAPI • Postman
-
-### 📊 Data & ML Basics
-Pandas • NumPy • Jupyter Notebook
-
-### 🛠️ Tools
-Git • GitHub • CI/CD basics
 
 ---
 
@@ -50,33 +58,41 @@ Git • GitHub • CI/CD basics
 
 | Category | Examples |
 |----------|----------|
-| 💬 Realtime Systems | WebSocket chat apps, live messaging, voice integration |
-| 🎫 Ticketing Systems | Support workflows, status tracking, real-time updates |
-| 📅 Scheduling Systems | Booking, appointment management, reminders |
+| 💬 Realtime Systems | WebSocket chat apps, live messaging, voice features |
+| 🎫 Ticketing Systems | Support workflows, status tracking |
+| 📅 Scheduling Systems | Booking & appointment systems |
 | 💳 Financial Modules | Wallets, invoices, transactions |
-| 🔔 Notification Systems | Realtime alerts, event-driven architecture |
-| ⚡ Background Jobs | Celery + Redis async task processing |
-| 📚 API Design | RESTful APIs with Swagger/OpenAPI docs |
-| 🧠 AI Experiments | LLM-based prototypes and research tools |
+| 🔔 Notification Systems | Event-driven realtime alerts |
+| ⚡ Background Jobs | Celery + Redis async processing |
+| 📚 API Design | REST APIs with Swagger docs |
+| 🧠 AI Experiments | LLM-based prototypes |
 
 ---
 
 ## 💡 What I Care About
 
-- 🧼 Clean, maintainable architecture  
-- ⚡ Performance and scalability  
-- 🔒 Security-first design  
-- 🚀 Real-world usability (not just demo code)  
+- 🧼 Clean architecture & maintainable code  
+- ⚡ Performance & scalability  
+- 🔒 Security-first systems  
+- 🚀 Real-world usable products  
 - 📝 Well-documented APIs  
-- ⚙️ Async & event-driven systems  
+- ⚙️ Async & event-driven design  
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
 ## 📫 Let’s Connect
 
-If you're into backend systems, distributed architectures, or building serious production software — let’s talk.
-
-📧 **Email:** [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
+📧 Email: [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
 
 ---
 
