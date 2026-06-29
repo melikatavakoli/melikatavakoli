@@ -65,4 +65,4 @@ I’ve worked on backend systems such as:
 
 ## 📫 Contact
 
-📧 [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
+![Email](https://img.shields.io/badge/Email-melikatavakoliedu%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
