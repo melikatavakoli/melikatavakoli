@@ -2,8 +2,6 @@
 
 # 💎 Melika Tavakoli
 
-### Backend Engineer • Python • Distributed Systems • Clean Architecture
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00C7B7&center=true&vCenter=true&width=650&lines=Backend+Engineer;Python+%7C+Django+%7C+FastAPI;Realtime+%26+Distributed+Systems;Clean+Architecture+%7C+Scalable+APIs)](https://git.io/typing-svg)
