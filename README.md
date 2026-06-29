@@ -1,10 +1,8 @@
 <div align="center">
-  
+
 # 💎 Hey, I'm Melika
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+Django+%7C+FastAPI;Realtime+Systems+%F0%9F%9A%80;Clean+Architecture+%7C+Scalable+APIs)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+Django+%7C+FastAPI;Realtime+Systems+🚀;Clean+Architecture+%7C+Scalable+APIs)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,82 +18,64 @@
 
 ## 🧠 About Me
 
-I'm a backend engineer with **2+ years of experience** building scalable and production-ready systems using Python.
+Backend engineer with 2+ years of experience building production-grade systems with Python.
 
-I focus on designing **clean architectures**, building **high-performance APIs**, and solving real-world problems where **scalability, security, and performance matter**.
+I specialize in designing **scalable architectures**, building **high-performance APIs**, and delivering systems where **reliability, security, and maintainability** are core requirements.
 
-I also explore **AI / LLM-based systems**, mainly in experimental and research-driven projects.
+Currently exploring **AI-powered backend systems** and **event-driven architectures** for modern distributed applications.
 
 ---
 
 ## ⚙️ Core Stack
 
-Python • Django • FastAPI • SQLAlchemy • Bash
+Python • Django • FastAPI • SQLAlchemy • Bash • Async Programming
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Data Layer
 
 PostgreSQL • MySQL • SQLite • MongoDB • Redis
 
 ---
 
-## 🐳 DevOps & Infrastructure
+## 🧱 Infrastructure & DevOps
 
-Docker • Linux • MinIO
-
----
-
-## 🔐 Auth & APIs
-
-JWT • OAuth2 • OTP Systems • Swagger / OpenAPI • Postman
+Docker • Linux • MinIO • Nginx • CI/CD pipelines
 
 ---
 
-## 🧩 What I’ve Built
+## 🔐 Authentication & API Design
 
-| Category | Examples |
-|----------|----------|
-| 💬 Realtime Systems | WebSocket chat apps, live messaging, voice features |
-| 🎫 Ticketing Systems | Support workflows, status tracking |
-| 📅 Scheduling Systems | Booking & appointment systems |
-| 💳 Financial Modules | Wallets, invoices, transactions |
-| 🔔 Notification Systems | Event-driven realtime alerts |
-| ⚡ Background Jobs | Celery + Redis async processing |
-| 📚 API Design | REST APIs with Swagger docs |
-| 🧠 AI Experiments | LLM-based prototypes |
+JWT • OAuth2 • OTP Systems • REST / OpenAPI • Postman
 
 ---
 
-## 💡 What I Care About
+## 🧩 Engineering Experience
 
-- 🧼 Clean architecture & maintainable code  
-- ⚡ Performance & scalability  
-- 🔒 Security-first systems  
-- 🚀 Real-world usable products  
-- 📝 Well-documented APIs  
-- ⚙️ Async & event-driven design  
+### 🚀 Backend Systems I’ve Built
 
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
+- Realtime communication platforms (WebSocket-based messaging systems)
+- Scalable ticketing & workflow engines
+- Scheduling & booking systems with conflict handling
+- Financial modules (wallets, invoicing, transactions)
+- Event-driven notification systems
+- Background processing pipelines (Celery + Redis)
+- Well-documented RESTful APIs with OpenAPI/Swagger
+- Experimental AI/LLM-powered backend prototypes
 
 ---
 
-## 📫 Let’s Connect
+## 🧠 Engineering Principles
 
-📧 Email: [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
+- Clean, modular, and testable architecture  
+- Performance-first backend design  
+- Secure-by-default systems  
+- Production-ready, scalable solutions  
+- API clarity and maintainability  
+- Async & event-driven thinking  
 
 ---
 
-<div align="center">
+## 📫 Contact
 
-> “Code is read more than it is written — design accordingly.”
-
-</div>
+📧 melikatavakoliedu@gmail.com
