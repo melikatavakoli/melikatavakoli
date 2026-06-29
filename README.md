@@ -53,7 +53,6 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 </p>
----
 
 ## 🚀 Projects & Experience
 
