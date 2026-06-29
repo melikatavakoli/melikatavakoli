@@ -2,7 +2,7 @@
 
 # 💎✨ Hey, I'm Melika
 
-### Backend Developer • Python • Django • FastAPI • Realtime Systems
+### Backend Engineer • Python • Django • FastAPI • Realtime Systems
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-5.x-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
@@ -16,95 +16,72 @@
 
 ## 🧠 About Me
 
-I'm a backend developer with **+2 years of hands-on experience** building scalable, production-ready systems using Python-based technologies.  
-I enjoy designing clean architectures, solving real-world problems, and working on systems where **performance, security, and reliability actually matter**.
+I'm a backend engineer with **2+ years of hands-on experience** building scalable and production-ready systems using Python.
 
-My main focus is backend development, but I also have experience working with **AI systems and Large Language Models (LLMs)**, especially in research-oriented and experimental projects.
+I focus on designing **clean architectures**, building **high-performance APIs**, and solving real-world backend problems where **reliability, scalability, and security matter**.
 
----
-
-
-# ⚡ Tech Stack
-
-## 🧠 Backend
-- Python
-- FastAPI
-- SQLAlchemy
-- Bash
+Alongside backend development, I’ve also worked on **AI/LLM-based systems**, mainly in experimental and research-driven projects.
 
 ---
 
-## 🗄️ Databases
-- PostgreSQL
-- MySQL
-- SQLite
-- MongoDB
-- Redis
+## ⚡ Tech Stack
+
+### 🧠 Backend
+Python • FastAPI • Django • SQLAlchemy • Bash
+
+### 🗄️ Databases
+PostgreSQL • MySQL • SQLite • MongoDB • Redis
+
+### 🐳 DevOps & Infrastructure
+Docker • Linux • MinIO
+
+### 🔐 Auth & APIs
+JWT • OAuth2 • OTP Systems • Swagger / OpenAPI • Postman
+
+### 📊 Data & ML Basics
+Pandas • NumPy • Jupyter Notebook
+
+### 🛠️ Tools
+Git • GitHub • CI/CD basics
 
 ---
 
-## 🐳 DevOps & Infrastructure
-- Docker
-- Linux
-- MinIO
+## 🧩 What I’ve Built
 
----
-
-## 🔐 Authentication & API
-- JWT Authentication
-- OTP Systems
-- Postman
-- Swagger / OpenAPI
-
----
-
-## 📊 Data & Analysis
-- Jupyter Notebook
-- Pandas
-- NumPy
-
----
-
-## 🛠️ Tools
-- Git
-
----
-
-## 🧩 Things I’ve Built
-
-| Project Type | Examples |
-|--------------|----------|
-| 💬 **Chat Systems** | WebSocket-based chat, message forwarding, replies, live voice |
-| 🎫 **Ticketing Platforms** | Support tickets, status tracking, real-time updates |
-| 📅 **Appointment Systems** | Online booking, scheduling, reminders |
-| 💳 **Financial Modules** | Wallet, billing, invoicing, transaction logs |
-| 🔔 **Realtime Notifications** | In-app alerts, push-ready architecture |
-| ⚡ **Background Jobs** | Async tasks, scheduled jobs with Celery & Redis |
-| 📚 **API Documentation** | Swagger/OpenAPI specs, Postman collections |
-| 🧠 **AI Experiments** | Research projects with LLMs & AI models |
+| Category | Examples |
+|----------|----------|
+| 💬 Realtime Systems | WebSocket chat apps, live messaging, voice integration |
+| 🎫 Ticketing Systems | Support workflows, status tracking, real-time updates |
+| 📅 Scheduling Systems | Booking, appointment management, reminders |
+| 💳 Financial Modules | Wallets, invoices, transactions |
+| 🔔 Notification Systems | Realtime alerts, event-driven architecture |
+| ⚡ Background Jobs | Celery + Redis async task processing |
+| 📚 API Design | RESTful APIs with Swagger/OpenAPI docs |
+| 🧠 AI Experiments | LLM-based prototypes and research tools |
 
 ---
 
 ## 💡 What I Care About
 
-- 🧼 **Clean architecture & readable code**  
-- ⚡ **Realtime performance & scalability**  
-- 🔒 **Security-first mindset** (from auth to data protection)  
-- 🚀 **Building things that actually get used**  
-- 📝 **Well-documented APIs** (Swagger + Postman)  
-- ⏳ **Async processing** with Celery & Redis
+- 🧼 Clean, maintainable architecture  
+- ⚡ Performance and scalability  
+- 🔒 Security-first design  
+- 🚀 Real-world usability (not just demo code)  
+- 📝 Well-documented APIs  
+- ⚙️ Async & event-driven systems  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-If you like backend systems, realtime architectures, or just enjoy building solid software —  
-**we'll probably get along pretty well 🙂**
+If you're into backend systems, distributed architectures, or building serious production software — let’s talk.
 
-**📧 Email me directly:** [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
+📧 **Email:** [melikatavakoliedu@gmail.com](mailto:melikatavakoliedu@gmail.com)
 
 ---
 
 <div align="center">
-  <i>“Write code that feels good to come back to.”</i>
+
+> “Code is read more than it is written — design accordingly.”
+
 </div>
