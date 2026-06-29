@@ -12,42 +12,39 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Backend Engineering Stack
 
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3.11+-1f425f?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+---
+
+## 🧠 Distributed Systems & Messaging
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🔐 Security & API Architecture
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C4043?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## ⚡ Async Processing & DevOps
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </p>
-
----
-
-## 🧠 About Me
-
-Backend engineer with a focus on building **scalable, real-world systems** using Python.
-
-I work on backend architectures where **performance, reliability, and maintainability** are not optional — they are the baseline.
-
-My main interest is designing systems that handle **real-time communication, data-heavy workflows, and distributed processing** in a clean and structured way.
-
-I’m also actively exploring **event-driven architectures** and **AI-powered backend systems**.
-
----
-
-## 🧩 Engineering Focus
-
-- ⚡ High-performance backend APIs (FastAPI / Django)
-- 🧱 System design with scalable and modular architecture
-- 🔄 Real-time systems using WebSockets & async patterns
-- 🔐 Secure authentication flows (JWT, OAuth2, OTP systems)
-- ⚙️ Background processing & distributed tasks (Celery, Redis)
-- 📡 Event-driven architecture for scalable services
 
 ---
 
