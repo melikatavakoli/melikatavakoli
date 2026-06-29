@@ -1,81 +1,78 @@
 <div align="center">
 
-# 💎 Hey, I'm Melika
+# 💎 Melika Tavakoli
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+Django+%7C+FastAPI;Realtime+Systems+🚀;Clean+Architecture+%7C+Scalable+APIs)](https://git.io/typing-svg)
+### Backend Engineer • Python • Distributed Systems • Clean Architecture
 
 <br/>
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-Backend-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-Async%20APIs-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-FF4D8D?style=for-the-badge&logo=socketdotio&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00C7B7&center=true&vCenter=true&width=650&lines=Backend+Engineer;Python+%7C+Django+%7C+FastAPI;Realtime+%26+Distributed+Systems;Clean+Architecture+%7C+Scalable+APIs)](https://git.io/typing-svg)
+
+<br/>
 
 </div>
 
 ---
 
+## ⚙️ Tech Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11+-1f425f?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=flat-square&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+
+</p>
+
+---
+
 ## 🧠 About Me
 
-Backend engineer with 2+ years of experience building production-grade systems with Python.
+Backend engineer focused on designing **scalable, maintainable, and production-ready systems**.
 
-I specialize in designing **scalable architectures**, building **high-performance APIs**, and delivering systems where **reliability, security, and maintainability** are core requirements.
+I work on systems where **performance, architecture, and reliability** are critical — from real-time applications to distributed backend services.
 
-Currently exploring **AI-powered backend systems** and **event-driven architectures** for modern distributed applications.
-
----
-
-## ⚙️ Core Stack
-
-Python • Django • FastAPI • SQLAlchemy • Bash • Async Programming
+Currently exploring **event-driven architectures** and **AI-integrated backend systems**.
 
 ---
 
-## 🗄️ Data Layer
+## 🧩 Engineering Focus
 
-PostgreSQL • MySQL • SQLite • MongoDB • Redis
-
----
-
-## 🧱 Infrastructure & DevOps
-
-Docker • Linux • MinIO • Nginx • CI/CD pipelines
-
----
-
-## 🔐 Authentication & API Design
-
-JWT • OAuth2 • OTP Systems • REST / OpenAPI • Postman
-
----
-
-## 🧩 Engineering Experience
-
-### 🚀 Backend Systems I’ve Built
-
-- Realtime communication platforms (WebSocket-based messaging systems)
-- Scalable ticketing & workflow engines
-- Scheduling & booking systems with conflict handling
-- Financial modules (wallets, invoicing, transactions)
-- Event-driven notification systems
-- Background processing pipelines (Celery + Redis)
-- Well-documented RESTful APIs with OpenAPI/Swagger
-- Experimental AI/LLM-powered backend prototypes
+<table align="center">
+<tr>
+<td align="center">⚡</td>
+<td><b>High-Performance APIs</b><br/>Fast, optimized, production-ready services</td>
+</tr>
+<tr>
+<td align="center">🧱</td>
+<td><b>System Design</b><br/>Scalable architectures & clean separation of concerns</td>
+</tr>
+<tr>
+<td align="center">🔄</td>
+<td><b>Realtime Systems</b><br/>WebSockets, event-driven communication</td>
+</tr>
+<tr>
+<td align="center">🔐</td>
+<td><b>Secure Backend</b><br/>JWT, OAuth2, authentication flows</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Engineering Principles
+## 🚀 Projects & Experience
 
-- Clean, modular, and testable architecture  
-- Performance-first backend design  
-- Secure-by-default systems  
-- Production-ready, scalable solutions  
-- API clarity and maintainability  
-- Async & event-driven thinking  
+<div align="center">
 
----
-
-## 📫 Contact
-
-📧 melikatavakoliedu@gmail.com
+```text
+Realtime Systems        → Chat, messaging, live communication
+Workflow Engines        → Ticketing, task management systems
+Scheduling Platforms    → Booking & appointment systems
+Financial Systems       → Wallets, invoices, transactions
+Notification Systems    → Event-driven alerts & updates
+Async Processing        → Celery + Redis pipelines
+API Engineering         → REST + OpenAPI design
+AI Experiments          → LLM-powered backend prototypes
