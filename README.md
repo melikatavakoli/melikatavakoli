@@ -1,12 +1,9 @@
 <div align="center">
-
 # 💎 Hey, I'm Melika
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+Django+%7C+FastAPI;Realtime+Systems+%F0%9F%9A%80;Clean+Architecture+%7C+Scalable+APIs)](https://git.io/typing-svg)
 
 <br/>
-
-### Backend Engineer • Python • Django • FastAPI • Realtime Systems
 
 <br/>
 
