@@ -5,10 +5,10 @@
 ### Backend Engineer • Python • Django • FastAPI • Realtime Systems
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-5.x-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
-[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-ff69b4?style=for-the-badge)]()
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-Backend%20Framework-0C4B33?style=for-the-badge&logo=django&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-Async%20APIs-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![WebSockets](https://img.shields.io/badge/WebSockets-Realtime%20Systems-FF2D95?style=for-the-badge&logo=socketdotio&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-DevOps%20Ready-1E90FF?style=for-the-badge&logo=docker&logoColor=white)]()
 
 </div>
 
