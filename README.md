@@ -57,4 +57,4 @@
 
 ## 📫 Contact
 
-![Email](https://img.shields.io/badge/Email-melikatavakoliedu%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
+![Email] melikatavakoliedu@gmail.com
