@@ -12,7 +12,7 @@
 
 ---
 
-## ⚙️ Backend Engineering Stack
+## ⚡ Backend & DevOps Tech Stack
 
 <p align="left">
 
@@ -20,36 +20,15 @@
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</p>
-
-## 🧠 Distributed Systems & Messaging
-
-<p align="left">
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-</p>
-
-## 🔐 Security & API Architecture
-
-<p align="left">
-
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C4043?style=flat)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-
-</p>
-
-## ⚡ Async Processing & DevOps
-
-<p align="left">
-
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 </p>
